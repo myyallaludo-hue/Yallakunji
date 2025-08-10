@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8af7176d82872dc9",
+        "key": "tech2guide",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
     }
 ]
