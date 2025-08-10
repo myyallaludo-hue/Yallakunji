@@ -28,5 +28,11 @@
         "key": "tech2guide",
         "expirydate": "15-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8af6ff61cb8daf64",
+        "key": "tech2guide",
+        "expirydate": "15-08-2025",
+        "Allowoffline": false
     }
 ]
