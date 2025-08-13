@@ -58,5 +58,11 @@
         "key": "Perkey1290",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "53c0cf410a74ba61",
+        "key": "200perkey26",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
