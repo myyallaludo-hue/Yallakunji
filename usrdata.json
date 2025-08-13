@@ -64,5 +64,11 @@
         "key": "200perkey26",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b892a18edc187703",
+        "key": "300keyper27",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
