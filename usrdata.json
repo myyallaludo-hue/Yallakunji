@@ -70,5 +70,11 @@
         "key": "300keyper27",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a08c1257b5c20c4a",
+        "key": "5daysp20c4a",
+        "expirydate": "19-08-2025",
+        "Allowoffline": false
     }
 ]
