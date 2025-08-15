@@ -76,5 +76,11 @@
         "key": "5daysp20c4a",
         "expirydate": "19-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "26b076ac8182c05b",
+        "key": "12mnthc05b",
+        "expirydate": "27-12-2025",
+        "Allowoffline": false
     }
 ]
