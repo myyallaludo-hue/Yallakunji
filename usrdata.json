@@ -82,5 +82,11 @@
         "key": "12mnthc05b",
         "expirydate": "27-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "29ead4340ec5f77a",
+        "key": "12mnthf77a",
+        "expirydate": "27-12-2025",
+        "Allowoffline": false
     }
 ]
