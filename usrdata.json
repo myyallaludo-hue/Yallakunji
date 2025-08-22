@@ -88,5 +88,11 @@
         "key": "12mnthf77a",
         "expirydate": "27-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b9876c68af6385c4",
+        "key": "pakistan85c4",
+        "expirydate": "15-08-2025",
+        "Allowoffline": false
     }
 ]
