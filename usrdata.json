@@ -112,5 +112,11 @@
         "key": "kwesov99c8",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "785bbbf8304fdebd",
+        "key": "debdv99c8",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
