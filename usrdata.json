@@ -130,5 +130,11 @@
         "key": "tech2guide56",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7acab0692fe354c2",
+        "key": "tech2g56",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
