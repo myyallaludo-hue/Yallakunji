@@ -142,5 +142,11 @@
         "key": "tech2guidekey1mo",
         "expirydate": "08-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d1de432c73535491",
+        "key": "stayke24",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
 ]
