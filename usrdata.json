@@ -148,5 +148,11 @@
         "key": "stayke24",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "011759fd530ce7f9",
+        "key": "freeyalakey4",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
