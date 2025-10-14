@@ -154,5 +154,11 @@
         "key": "freeyalakey4",
         "expirydate": "17-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c2d28f8c6fa200ee",
+        "key": "chaking237",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
