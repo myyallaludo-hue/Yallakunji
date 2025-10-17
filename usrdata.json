@@ -166,5 +166,11 @@
         "key": "mykeyonly",
         "expirydate": "28-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4ae5d1423680290f",
+        "key": "mykey435n",
+        "expirydate": "28-12-2025",
+        "Allowoffline": false
     }
 ]
