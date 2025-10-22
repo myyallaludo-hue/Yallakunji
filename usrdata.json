@@ -178,5 +178,11 @@
         "key": "cracken65nv",
         "expirydate": "28-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4e1c07ba36ef02f3",
+        "key": "crlu326gy",
+        "expirydate": "28-12-2027",
+        "Allowoffline": false
     }
 ]
