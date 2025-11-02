@@ -190,5 +190,11 @@
         "key": "cre567",
         "expirydate": "28-12-2015",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c289d2bab2f65949",
+        "key": "crcl52n",
+        "expirydate": "25-01-2026",
+        "Allowoffline": false
     }
 ]
