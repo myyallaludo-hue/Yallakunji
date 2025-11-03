@@ -196,5 +196,11 @@
         "key": "crcl52n",
         "expirydate": "25-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6a16e95b969d6dac",
+        "key": "crf762nn",
+        "expirydate": "25-01-2026",
+        "Allowoffline": false
     }
 ]
