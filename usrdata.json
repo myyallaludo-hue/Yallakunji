@@ -226,5 +226,11 @@
         "key": "wolfking56",
         "expirydate": "01-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "94bff8d2095fec49",
+        "key": "zain123",
+        "expirydate": "01-02-2026",
+        "Allowoffline": false
     }
 ]
