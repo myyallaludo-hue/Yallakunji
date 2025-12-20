@@ -232,5 +232,11 @@
         "key": "zain123",
         "expirydate": "01-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "48a8dca0fc9f3b74",
+        "key": "Fariha7855",
+        "expirydate": "01-02-2027",
+        "Allowoffline": false
     }
 ]
