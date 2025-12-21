@@ -238,5 +238,11 @@
         "key": "Fariha7855",
         "expirydate": "01-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0d8402a3d90d5dbf",
+        "key": "A1",
+        "expirydate": "01-02-2027",
+        "Allowoffline": false
     }
 ]
