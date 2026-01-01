@@ -262,5 +262,11 @@
         "key": "asad012",
         "expirydate": "01-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "47505ad69a9c502f",
+        "key": "umairofc",
+        "expirydate": "01-01-2027",
+        "Allowoffline": false
     }
 ]
