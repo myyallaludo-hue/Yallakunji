@@ -268,5 +268,11 @@
         "key": "umairofc",
         "expirydate": "01-01-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8afa451e161b27f1",
+        "key": "Ash01",
+        "expirydate": "01-01-2027",
+        "Allowoffline": false
     }
 ]
