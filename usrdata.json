@@ -280,5 +280,11 @@
         "key": "crf56nnn",
         "expirydate": "01-01-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3d926d18c403e7cb",
+        "key": "ggrt654",
+        "expirydate": "01-05-2026",
+        "Allowoffline": false
     }
 ]
