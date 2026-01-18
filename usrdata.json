@@ -286,5 +286,11 @@
         "key": "ggrt654",
         "expirydate": "01-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0acbf9a9a2a64c51",
+        "key": "guriya67",
+        "expirydate": "01-05-2026",
+        "Allowoffline": false
     }
 ]
