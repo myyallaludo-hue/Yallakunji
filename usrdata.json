@@ -292,5 +292,11 @@
         "key": "guriya67",
         "expirydate": "01-20-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "43611378c5e49003",
+        "key": "yzab1298",
+        "expirydate": "02-27-2026",
+        "Allowoffline": false
     }
 ]
