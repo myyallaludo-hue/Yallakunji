@@ -298,5 +298,11 @@
         "key": "yzab1298",
         "expirydate": "02-27-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "14b45b2fa91fedbe",
+        "key": "frver54n1",
+        "expirydate": "01-01-2027",
+        "Allowoffline": false
     }
 ]
