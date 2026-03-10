@@ -316,5 +316,11 @@
         "key": "fywy271",
         "expirydate": "10-04-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8afcccd23d0c1cff",
+        "key": "fywg6271",
+        "expirydate": "10-04-2028",
+        "Allowoffline": false
     }
 ]
