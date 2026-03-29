@@ -340,5 +340,11 @@
         "key": "medh2a71",
         "expirydate": "13-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8af9e9a8228c0f92",
+        "key": "meja71",
+        "expirydate": "01-04-2026",
+        "Allowoffline": false
     }
 ]
