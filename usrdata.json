@@ -352,5 +352,11 @@
         "key": "me3hh4",
         "expirydate": "06-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "df51c7818813baf8",
+        "key": "ehr2h4",
+        "expirydate": "07-04-2026",
+        "Allowoffline": false
     }
 ]
