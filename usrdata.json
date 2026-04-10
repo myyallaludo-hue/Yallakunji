@@ -358,5 +358,11 @@
         "key": "ehr2h4",
         "expirydate": "07-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0674ba22220e64dc",
+        "key": "yaq5y4",
+        "expirydate": "07-04-2026",
+        "Allowoffline": false
     }
 ]
