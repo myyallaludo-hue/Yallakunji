@@ -376,5 +376,11 @@
         "key": "Aash01",
         "expirydate": "22-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5cfde71c364fe5ec",
+        "key": "tyew41",
+        "expirydate": "26-06-2026",
+        "Allowoffline": false
     }
 ]
