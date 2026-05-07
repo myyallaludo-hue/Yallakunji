@@ -382,5 +382,11 @@
         "key": "tyew41",
         "expirydate": "26-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "011759fd530ce7f9",
+        "key": "tj6w41",
+        "expirydate": "26-06-2027",
+        "Allowoffline": false
     }
 ]
