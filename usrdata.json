@@ -412,5 +412,11 @@
         "key": "nida2345",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ce69f0f0978a8a3c",
+        "key": "qamarabbas",
+        "expirydate": "27-05-2026",
+        "Allowoffline": false
     }
 ]
