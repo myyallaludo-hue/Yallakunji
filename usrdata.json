@@ -422,43 +422,43 @@
     {
         "device_id": "3576c8803fc5e371",
         "key": "nida01",
-        "expirydate": "27-05-2026",
+        "expirydate": "27-05-2027",
         "Allowoffline": false
     },
     {
         "device_id": "e629f44162026e98",
         "key": "nida02",
-        "expirydate": "27-05-2026",
+        "expirydate": "27-05-2027",
         "Allowoffline": false
     },
     {
         "device_id": "7326cfb2eebee268",
         "key": "nida03",
-        "expirydate": "27-05-2026",
+        "expirydate": "27-05-2027",
         "Allowoffline": false
     },
     {
         "device_id": "8d4de30eeaea9feb",
         "key": "nida04",
-        "expirydate": "27-05-2026",
+        "expirydate": "27-05-2027",
         "Allowoffline": false
     },
     {
         "device_id": "e629f44162026e98",
         "key": "nida05",
-        "expirydate": "27-05-2026",
+        "expirydate": "27-05-2027",
         "Allowoffline": false
     },
     {
         "device_id": "3576c8803fc5e371",
         "key": "nida06",
-        "expirydate": "27-05-2026",
+        "expirydate": "27-05-2027",
         "Allowoffline": false
     },
     {
         "device_id": "3cebe630c67fdc6f",
         "key": "nida07",
-        "expirydate": "27-05-2026",
+        "expirydate": "27-05-2027",
         "Allowoffline": false
     }
 ]
