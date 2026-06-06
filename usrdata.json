@@ -460,5 +460,11 @@
         "key": "nida07",
         "expirydate": "27-05-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "19626d674ee91ff4",
+        "key": "kingnv23",
+        "expirydate": "13-06-2026",
+        "Allowoffline": false
     }
 ]
