@@ -478,5 +478,11 @@
         "key": "nng5s8",
         "expirydate": "17-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "caf071eb8f2b251a",
+        "key": "exp1w2",
+        "expirydate": "17-06-2506",
+        "Allowoffline": false
     }
 ]
