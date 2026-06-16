@@ -374,7 +374,7 @@
     {
         "device_id": "8afd169682c600de",
         "key": "Aash01",
-        "expirydate": "22-05-2026",
+        "expirydate": "22-07-2026",
         "Allowoffline": false
     },
     {
@@ -483,6 +483,12 @@
         "device_id": "caf071eb8f2b251a",
         "key": "exp1w2",
         "expirydate": "17-06-2506",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "61518b3ee31155e9",
+        "key": "nida09",
+        "expirydate": "17-06-2027",
         "Allowoffline": false
     }
 ]
