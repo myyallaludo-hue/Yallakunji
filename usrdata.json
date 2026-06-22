@@ -496,5 +496,17 @@
         "key": "nida10",
         "expirydate": "17-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eeba595f70a010e2",
+        "key": "nida11",
+        "expirydate": "17-06-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e57a311c446d0b91",
+        "key": "nida12",
+        "expirydate": "17-06-2027",
+        "Allowoffline": false
     }
 ]
