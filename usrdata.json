@@ -526,5 +526,11 @@
         "key": "nida14",
         "expirydate": "17-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e036f1cce4bf15be",
+        "key": "nida15",
+        "expirydate": "17-06-2027",
+        "Allowoffline": false
     }
 ]
