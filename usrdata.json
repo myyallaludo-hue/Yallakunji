@@ -586,5 +586,11 @@
         "key": "qmar13vx",
         "expirydate": "17-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5c9c1f2377515f49",
+        "key": "qeak1rp",
+        "expirydate": "01-10-2026",
+        "Allowoffline": false
     }
 ]
