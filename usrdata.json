@@ -592,5 +592,11 @@
         "key": "qeak1rp",
         "expirydate": "01-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "29ead4340ec5f77a",
+        "key": "qry092",
+        "expirydate": "27-05-2107",
+        "Allowoffline": false
     }
 ]
