@@ -598,5 +598,11 @@
         "key": "qry092",
         "expirydate": "27-05-2107",
         "Allowoffline": false
+    },
+    {
+        "device_id": "15f199ac9b1b8eb6",
+        "key": "nida17",
+        "expirydate": "27-05-2026",
+        "Allowoffline": false
     }
 ]
