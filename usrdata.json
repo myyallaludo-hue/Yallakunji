@@ -604,5 +604,11 @@
         "key": "nida17",
         "expirydate": "27-05-2126",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "29ead4340ec5f77a",
+        "key": "umairkingofc007",
+        "expirydate": "27-05-2030",
+        "Allowoffline": false
     }
 ]
