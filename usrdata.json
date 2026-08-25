@@ -12,7 +12,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "0d8402a3d90d5dbf",
+        "device_id": "0d8402a3d90d95dbf",
         "key": "tech2guide",
         "expirydate": "15-09-2025",
         "Allowoffline": false
@@ -164,7 +164,7 @@
     {
         "device_id": "0d8402a3d90d5dbf",
         "key": "mykeyonly",
-        "expirydate": "28-12-2025",
+        "expirydate": "28-12-2109",
         "Allowoffline": false
     },
     {
