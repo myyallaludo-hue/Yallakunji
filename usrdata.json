@@ -622,6 +622,12 @@
         "key": "Muhammadshahnoor007",
         "expirydate": "2-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "89faf02d94757bb7",
+        "key": "noor007",
+        "expirydate": "01-08-2026",
+        "Allowoffline": false
     }, 
     
 ]
