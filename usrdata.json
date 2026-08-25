@@ -616,5 +616,12 @@
         "key": "basitmalik1y",
         "expirydate": "22-08-2027",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "376e886f9f5400b0",
+        "key": "umairkingofc1",
+        "expirydate": "2-09-2026",
+        "Allowoffline": false
+    }, 
+    
 ]
