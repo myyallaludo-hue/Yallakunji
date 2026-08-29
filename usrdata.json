@@ -628,11 +628,12 @@
         "key": "noor0007",
         "expirydate": "01-09-2026",
         "Allowoffline": false
-    }, 
+    },
     {
         "device_id": "e8625c045d883beb",
         "key": "umairshafiq937",
-        "expirydate": "01-09-2026",
+        "expirydate": "6-09-2026",
         "Allowoffline": false
-    
-]
+    }
+        
+ ]
