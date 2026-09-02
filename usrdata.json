@@ -640,6 +640,12 @@
         "key": "waseem007",
         "expirydate": "8-09-2026",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "2d87f6b4963d6bb8",
+        "key": "umairshafiq937",
+        "expirydate": "27-05-2030",
+        "Allowoffline": false
     }
         
  ]
