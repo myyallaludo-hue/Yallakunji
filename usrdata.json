@@ -646,6 +646,12 @@
         "key": "nida18",
         "expirydate": "27-05-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b5380feec2c34cd2",
+        "key": "laik",
+        "expirydate": "27-05-2029",
+        "Allowoffline": false
     }
         
  ]
