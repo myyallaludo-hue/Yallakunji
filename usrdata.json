@@ -12,7 +12,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "0d8402a3d90d95dbf",
+        "device_id": "0d8402a3d95dbf",
         "key": "tech2guide",
         "expirydate": "15-09-2105",
         "Allowoffline": false
@@ -651,6 +651,12 @@
         "device_id": "b5380feec2c34cd2",
         "key": "laik",
         "expirydate": "27-05-2029",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0d8402a3d90d5dbf",
+        "key": "tech2guide",
+        "expirydate": "27-05-2126",
         "Allowoffline": false
     }
         
