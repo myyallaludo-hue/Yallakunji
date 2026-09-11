@@ -14,7 +14,7 @@
     {
         "device_id": "0d8402a3d90d95dbf",
         "key": "tech2guide",
-        "expirydate": "15-09-2025",
+        "expirydate": "15-09-2105",
         "Allowoffline": false
     },
     {
@@ -162,7 +162,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "0d8402a3d90d5dbf",
+        "device_id": "new-id",
         "key": "mykeyonly",
         "expirydate": "28-12-2109",
         "Allowoffline": false
