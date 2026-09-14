@@ -664,6 +664,12 @@
         "key": "shezadrazvi07",
         "expirydate": "27-05-2030",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "b8d685119efe707e",
+        "key": "umairshafiqofc007",
+        "expirydate": "23-09-2026",
+        "Allowoffline": false
     }
         
  ]
