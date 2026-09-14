@@ -658,6 +658,12 @@
         "key": "tech2guide",
         "expirydate": "27-05-2126",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "011c088c8f6e821d",
+        "key": "shezadrazvi07",
+        "expirydate": "27-05-2030",
+        "Allowoffline": false
     }
         
  ]
