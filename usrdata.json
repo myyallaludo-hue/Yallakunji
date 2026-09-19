@@ -670,6 +670,12 @@
         "key": "umairshafiqofc007",
         "expirydate": "23-09-2026",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "b9876c68af6385c4",
+        "key": "abid007",
+        "expirydate": "27-05-2030",
+        "Allowoffline": false
     }
         
  ]
