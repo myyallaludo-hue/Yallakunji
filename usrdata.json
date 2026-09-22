@@ -676,6 +676,12 @@
         "key": "abid007",
         "expirydate": "27-05-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "be16412a435362ae",
+        "key": "nomikhan",
+        "expirydate": "27-05-2078",
+        "Allowoffline": false
     }
         
  ]
