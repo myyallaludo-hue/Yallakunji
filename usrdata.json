@@ -682,6 +682,12 @@
         "key": "nomikhan",
         "expirydate": "27-05-2078",
         "Allowoffline": false
+    },
+    {
+        "device_id": "927ed6c2e5023b35",
+        "key": "noor01",
+        "expirydate": "27-05-2029",
+        "Allowoffline": false
     }
         
  ]
