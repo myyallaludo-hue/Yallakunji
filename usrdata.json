@@ -688,6 +688,12 @@
         "key": "noor01",
         "expirydate": "27-05-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7c2dc25bcb5911d3",
+        "key": "maaz01",
+        "expirydate": "27-11-2026",
+        "Allowoffline": false
     }
         
  ]
