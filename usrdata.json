@@ -700,6 +700,12 @@
         "key": "noor02",
         "expirydate": "27-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f023c71cae4ecc3d",
+        "key": "nida19",
+        "expirydate": "27-05-2026",
+        "Allowoffline": false
     }
         
  ]
