@@ -706,6 +706,12 @@
         "key": "nida19",
         "expirydate": "01-01-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5000aa046ed57ec0",
+        "key": "nida01",
+        "expirydate": "27-05-2028",
+        "Allowoffline": false
     }
         
  ]
