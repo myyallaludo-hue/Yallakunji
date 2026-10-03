@@ -712,6 +712,12 @@
         "key": "anaya01",
         "expirydate": "27-05-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "08049d4d45ff9cd7",
+        "key": "naveedjanu",
+        "expirydate": "27-05-2036",
+        "Allowoffline": false
     }
         
  ]
