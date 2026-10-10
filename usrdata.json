@@ -718,18 +718,24 @@
         "key": "naveedjanu1",
         "expirydate": "27-05-2036",
         "Allowoffline": false
-    }
-        
- ]
-{
+    },
+    {
         "device_id": "cb9a74df6df8c31e",
         "key": "nida20",
         "expirydate": "27-05-2028",
         "Allowoffline": false
-}
-{
+    },
+    {
         "device_id": "0462837e735692b5",
         "key": "nida50",
         "expirydate": "27-05-2028",
         "Allowoffline": false
-}
+    },
+    {
+        "device_id": "newid",
+        "key": "nida56",
+        "expirydate": "27-05-2028",
+        "Allowoffline": false
+    }
+
+]
