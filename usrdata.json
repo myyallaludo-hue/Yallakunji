@@ -760,6 +760,12 @@
         "key": "Noor01",
         "expirydate": "27-05-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cd37a795ebb60851",
+        "key": "nida80",
+        "expirydate": "27-05-2028",
+        "Allowoffline": false
     }
 
 ]
