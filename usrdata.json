@@ -766,6 +766,12 @@
         "key": "nida80",
         "expirydate": "27-05-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "48a2866e8c686ddd",
+        "key": "Zteam11",
+        "expirydate": "27-05-2028",
+        "Allowoffline": false
     }
 
 ]
