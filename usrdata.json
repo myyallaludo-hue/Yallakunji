@@ -772,6 +772,12 @@
         "key": "Zteam11",
         "expirydate": "27-05-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "54cb2ae32c218437",
+        "key": "Zteam12",
+        "expirydate": "27-05-2028",
+        "Allowoffline": false
     }
 
 ]
