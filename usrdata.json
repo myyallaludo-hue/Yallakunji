@@ -778,6 +778,12 @@
         "key": "Zteam12",
         "expirydate": "27-05-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "e1be0e3a65a15a5b",
+        "key": "Noor15",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
     }
 
 ]
