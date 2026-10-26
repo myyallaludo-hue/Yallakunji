@@ -784,6 +784,12 @@
         "key": "Noor15",
         "expirydate": "1-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f13377e28240306",
+        "key": "nida188",
+        "expirydate": "27-05-2028",
+        "Allowoffline": false
     }
 
 ]
