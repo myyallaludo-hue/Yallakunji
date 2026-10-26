@@ -790,6 +790,11 @@
         "key": "nida188",
         "expirydate": "27-05-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1ec69058f758b309",
+        "key": "nidateam1",
+        "expirydate": "27-05-2029",
+        "Allowoffline": false
     }
-
 ]
