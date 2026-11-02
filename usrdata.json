@@ -806,7 +806,13 @@
     {
         "device_id": "ce69f0f0978a8a3c",
         "key": "umairking937",
-        "expirydate": "9-011-2026",
+        "expirydate": "9-01-2029",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e36559fc29741df3",
+        "key": "laiba01",
+        "expirydate": "27-05-2030",
         "Allowoffline": false
     }
 ]
