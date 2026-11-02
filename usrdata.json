@@ -802,5 +802,11 @@
         "key": "Ateam14",
         "expirydate": "27-05-2029",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "ce69f0f0978a8a3c",
+        "key": "umairkingofc937",
+        "expirydate": "9-011-2026",
+        "Allowoffline": false
     }
 ]
