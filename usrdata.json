@@ -814,5 +814,11 @@
         "key": "laiba01",
         "expirydate": "27-05-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d306ac9b2c452059",
+        "key": "Nidateam01",
+        "expirydate": "27-05-2029",
+        "Allowoffline": false
     }
 ]
