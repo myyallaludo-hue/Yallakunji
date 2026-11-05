@@ -820,5 +820,11 @@
         "key": "Nidateam01",
         "expirydate": "27-05-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "33da7e801cc7fe15",
+        "key": "Nidateam02",
+        "expirydate": "27-05-2029",
+        "Allowoffline": false
     }
 ]
